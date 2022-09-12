@@ -1,0 +1,21 @@
+export const NavigationPageIDs = {
+	DEMO1DASHBOARD: "/sitewise",
+	DEMO2DASHBOARD: "/generate_dashboard",
+	DEMO3DASHBOARD: "/asset_health",
+	DEMO1FE_ENGG: "/monitored_asset_performance",
+	DEMO2FE_ENGG: "/monitor_new_asset_performance",
+	DEMO3FE_ENGG: "/monitoring_parameter",
+	DEMO1ML_MODEL: "/index",
+	DEMO2ML_MODEL: "/oee",
+	DEMO3ML_MODEL: "/",
+	MANAGE_USER: "/ManageUser",
+	GENERATE_GRAFANA_DASHBOARD: "/generate_grafana_dashboard",
+	QUICKSIGHT: "/quicksight",
+	MONITOR_DATA_WITH_ALARM: "/monitor_data_with_alarm",
+	ADD_NEW_ALARM: "/add_new_alarm",
+	OEECONFIG: "/oee_config_losses_attributes",
+	ALARM_CONFIG: "/alarm_config_severity_email",
+	DEMO_1: "1000003demo1",
+	DEMO_2: "1000003demo2",
+	// OEEASSETDETAILS:'/oee_asset_details'
+};
